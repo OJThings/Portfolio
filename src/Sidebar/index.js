@@ -47,7 +47,7 @@ const Sidebar = () => {
             </a>
           </li>
           <li>
-            <a target="_blank" rel="noreferrer" href="s">
+            <a target="_blank" rel="noreferrer" href="https://www.facebook.com/jeeeeerome7">
               <FontAwesomeIcon icon={faFacebook} color="#4d4d4e" />
             </a>
           </li>
