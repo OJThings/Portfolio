@@ -6,7 +6,7 @@ import Logo from './Logo';
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate');
-  const nameArray = ['j', 'e', 'r', 'o', 'm', 'e'];
+  const nameArray = ['J', 'e', 'r', 'o', 'm', 'e'];
   const jobArray = [
     'w',
     'e',
